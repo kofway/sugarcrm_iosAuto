@@ -1,2 +1,1 @@
-sugarcrm_iosAuto
-================
+repo for ios automation connector
